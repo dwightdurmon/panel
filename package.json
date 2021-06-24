@@ -91,7 +91,7 @@
         "eslint-plugin-react-hooks": "^4.0.5",
         "eslint-plugin-standard": "^4.0.1",
         "fork-ts-checker-webpack-plugin": "^5.0.6",
-        "postcss": "^8.2.1",
+        "postcss": "^8.2.10",
         "redux-devtools-extension": "^2.13.8",
         "source-map-loader": "^1.0.1",
         "style-loader": "^1.2.1",
